@@ -1,6 +1,6 @@
 # 📊 Moduł 1: Community Sentiment Scraping
 
-![Moduł Scrapingu](Organic-Marketing-Agent/moduł-1-scraping/moduł-1-scraping.png)
+![Moduł Scrapingu](https://github.com/IGUANAH-ai/socialloop-n8n-portfolio/blob/main/Organic-Marketing-Agent/modu%C5%82-1-scraping/modu%C5%82-1-scraping.png?raw=true)
 
 ## Funkcje modułu:
 - **Pobieranie aktualnych danych** z Facebook i Instagram (treść, like, grafiki) z ostatnich 7 dni
