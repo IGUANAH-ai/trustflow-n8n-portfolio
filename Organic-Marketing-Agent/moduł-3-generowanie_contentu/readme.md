@@ -6,6 +6,12 @@
 - **Wgrywanie zdjęć** na dysk Google
 - **Tworzenie opisów** postów na SM 
 
+**Korzyści z automatycznego generowania contentu:**
+* **Redukcja czasu tworzenia o 80-90%** - eliminacja oczekiwania na grafika i copywritera
+* **Oszczędność kosztów** - brak potrzeby współpracy z zewnętrznymi agencjami kreatywnymi
+* **Spójność brandingu** - automatyczne dostosowanie do identyfikacji wizualnej marki
+* **Skalowalna produkcja** - możliwość generowania dziesiątek postów dziennie w oparciu o dane
+
 ## Przepływ danych:
 1. **Execute Workflow** - uruchomienie na żądanie
 2. **AI Content Generation** - Imagen-1 tworzy grafiki
