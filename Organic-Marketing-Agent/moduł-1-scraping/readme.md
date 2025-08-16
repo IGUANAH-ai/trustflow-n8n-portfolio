@@ -6,6 +6,12 @@
 - **Inteligentne filtrowanie** - dane wgrywane do arkuszy Google z automatycznym czyszczeniem
 - **Eliminacja duplikatów** - arkusze czyszczone przed aktualizacją
 
+## Korzyści z automatycznego scrapingu danych:
+* **Oszczędność do 20 godzin tygodniowo** - eliminacja ręcznego monitorowania social media
+* **Real-time market intelligence** - dostęp do aktualnych trendów i nastrojów społeczności
+* **Kompleksowy obraz konkurencji** - automatyczne śledzenie działań wszystkich graczy na rynku
+* **Czyste, gotowe do analizy dane** - inteligentne filtrowanie eliminuje szumy informacyjne
+
 ## Przepływ danych:
 1. **Schedule Trigger** - automatyczne uruchomienie co 7 dni
 2. **Scraping wieloźródłowy** - równoczesne pobieranie z Instagram, profili konkurencji i grup Facebook
