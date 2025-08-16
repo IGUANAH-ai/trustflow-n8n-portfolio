@@ -12,4 +12,4 @@
 - **Konsystentność** - regularne publikowanie buduje zaangażowanie odbiorców
 - **Wieloplatformowy zasięg** - równoczesna obecność na wszystkich kanałach
 
-![Moduł Social Media Planner](https://github.com/IGUANAH-ai/socialloop-n8n-portfolio/blob/main/Organic-Marketing-Agent/modu%C5%82-4-social_media_planner/modu%C5%82-4-social_media_planner.png?raw=true)
+![Moduł Social Media Planner](https://github.com/IGUANAH-ai/socialloop-n8n-portfolio/blob/main/Organic-Marketing-Agent/modu%C5%82-4-publikacja/Modu%C5%82-4-social%20media%20planer%20.png)
