@@ -6,6 +6,12 @@
 - **Generowanie raportu** o viralowych treściach
 - **Zapisywanie raportu** w pliku docs oraz wysyłanie go mailem
 
+## Korzyści z automatycznego generowania raportów:
+* **Redukcja czasu analizy o 95%** - automatyczne przetwarzanie danych zamiast ręcznej analizy
+* **Obiektywność analiz** - eliminacja subiektywnych interpretacji dzięki AI
+* **Regularny monitoring** - systematyczne śledzenie trendów i konkurencji
+* **Actionable insights** - konkretne rekomendacje oparte na danych z wielu źródeł
+
 ## Przepływ danych:
 1. **Execute Workflow** - uruchomienie na żądanie
 2. **Pobieranie danych** z arkuszy Google (grupy, konkurencja, Instagram)
